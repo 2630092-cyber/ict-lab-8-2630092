@@ -1,0 +1,8 @@
+Git and GitHub Assignment
+
+Name: safa shaheen 
+Roll Number: 2630092
+
+I practiced creating a repository, staging files, committing changes, and preparing to push them to GitHub.
+
+Learning note: git status shows the current state of the working tree.
