@@ -1,0 +1,6 @@
+Git basics
+- git status: checks the working tree.
+- git add: stages changes.
+- git commit: records staged changes.
+- git push: uploads commits to a remote repository.
+- git log --oneline: displays a compact commit history.
