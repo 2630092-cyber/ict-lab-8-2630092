@@ -1,0 +1,7 @@
+Ideas / Learning Notes
+
+1. Practice Git commands regularly.
+2. Write clear commit messages.
+3. Check git status before committing.
+4. Push committed changes to the remote repository.
+5. Keep a clear README so others can understand the project.
